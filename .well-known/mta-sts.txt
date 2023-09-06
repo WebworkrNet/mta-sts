@@ -2,4 +2,6 @@
       mode: testing
       mx: w0147f9a.kasserver.com
       mx: w01893a2.kasserver.com
+      mx: w017fbac.kasserver.com
+      mx: 
       max_age: 604800
