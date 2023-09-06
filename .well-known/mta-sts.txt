@@ -3,5 +3,5 @@
       mx: w0147f9a.kasserver.com
       mx: w01893a2.kasserver.com
       mx: w017fbac.kasserver.com
-      mx: 
+      mx: w01b5595.kasserver.com
       max_age: 604800
